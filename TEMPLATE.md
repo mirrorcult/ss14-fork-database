@@ -1,6 +1,6 @@
 # {FULL SERVER NAME}
 
-{`![LOGO](logo.png | width=256)` IF APPLICABLE (DELETE BACKTICKS)}
+{`![LOGO](logo.png)` IF APPLICABLE (DELETE BACKTICKS)}
 
 | Key  | Value |
 | ------------- | ------------- |

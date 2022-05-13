@@ -1,6 +1,6 @@
 # Anprim 14
 
-![LOGO](logo.png | width=256)
+![LOGO](logo.png)
 
 | Key  | Value |
 | ------------- | ------------- |

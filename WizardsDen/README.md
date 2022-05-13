@@ -1,6 +1,6 @@
 # Wizard's Den SS14
 
-![LOGO](logo.png | width=256)
+![LOGO](logo.png)
 
 | Key  | Value |
 | ------------- | ------------- |

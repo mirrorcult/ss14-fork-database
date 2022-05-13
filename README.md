@@ -20,6 +20,7 @@ A server entry should look like this:
             - README.md (copied from TEMPLATE.md)
             - logo.png (if applicable, no dimension restrictions)
             - Children (if applicable)
+            - Miscellaneous relevant assets can be placed here as well.
 ```
 
 Folders and file names should not contain any spaces.

@@ -10,6 +10,6 @@
 | Website | N/A |
 | Language | EN |
 | Info | A light roleplay fork with unconventional/unique mechanics and jobs, based on an idea of early 2010s SS13. |
-| Date of Creation | May 2022 |
+| Date of Creation | 2022-04-29 |
 | Date of End |  N/A |
 | Sources | Nyanotrasen Discord Server, `DSC@Rane#7518` |

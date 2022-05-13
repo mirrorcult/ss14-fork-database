@@ -10,8 +10,8 @@
 | Website | N/A |
 | Language | EN |
 | Info | A server that plans to have persistence mechanics and procedurally generated content. |
-| Date of Creation | May 2021 |
-| Date of End | Jan 2022 (hiatus) |
+| Date of Creation | 2021-05 |
+| Date of End | 2022-01 (HIATUS) |
 | Sources | `GH@Zumorica/DSC@Vera#3100`, Gradient Station Discord |
 
 ## Miscellaneous Information

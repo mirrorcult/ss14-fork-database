@@ -10,6 +10,6 @@
 | Website | N/A |
 | Language | EN |
 | Info | Features unique mechanics related to ship gameplay, and a procedurally generated overworld. Inspired by Shiptest SS13. |
-| Date of Creation | December 2021 |
+| Date of Creation | 2021-12 |
 | Date of End |  N/A |
 | Sources | Outer Rim Discord, SS14 Discord, `DSC@/tmp/moony#0029` |

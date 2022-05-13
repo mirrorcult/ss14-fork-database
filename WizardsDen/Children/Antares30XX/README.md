@@ -10,6 +10,6 @@
 | Website | N/A |
 | Language | EN |
 | Info | A medium/heavy roleplay server fork focused on tight and intentional game design and player-guided gameplay. |
-| Date of Creation | Jan 2022 |
+| Date of Creation | 2022-01 |
 | Date of End |  N/A |
 | Sources | `DSC@mirrorcult#9528` |

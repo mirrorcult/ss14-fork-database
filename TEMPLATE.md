@@ -1,6 +1,6 @@
 # {FULL SERVER NAME}
 
-{`![LOGO](logo.png)` IF APPLICABLE (DELETE BACKTICKS)}
+{`![LOGO](logo.png | width=256)` IF APPLICABLE (DELETE BACKTICKS)}
 
 | Key  | Value |
 | ------------- | ------------- |
@@ -8,6 +8,7 @@
 | Repository  | {REPOSITORY LINK IF APPLICABLE} |
 | Discord  | {DISCORD LINK IF APPLICABLE} |
 | Website | {WEBSITE LINK IF APPLICABLE} |
+| Language | {PRIMARY SERVER LANGUAGE} |
 | Info | {SHORT INFORMATIVE BLURB ABOUT SERVER} |
 | Date of Creation | {DATE OR BEST ESTIMATE} |
 | Date of End |  {DATE SERVER STOPPED HOSTING IF APPLICABLE} |

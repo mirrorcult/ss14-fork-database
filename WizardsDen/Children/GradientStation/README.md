@@ -1,6 +1,6 @@
 # Gradient Station
 
-![LOGO](logo.png)
+![LOGO](logo.png | width=256)
 
 | Key  | Value |
 | ------------- | ------------- |
@@ -8,6 +8,7 @@
 | Repository  | https://github.com/gradient-station/gradient-station-14 |
 | Discord  | https://discord.gg/wU5eVyR4rr |
 | Website | N/A |
+| Language | EN |
 | Info | A server that plans to have persistence mechanics and procedurally generated content. |
 | Date of Creation | May 2021 |
 | Date of End | Jan 2022 (hiatus) |

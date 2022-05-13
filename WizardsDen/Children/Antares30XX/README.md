@@ -1,6 +1,6 @@
 # Antares 30XX
 
-![LOGO](logo.png)
+![LOGO](logo.png | width=256)
 
 | Key  | Value |
 | ------------- | ------------- |
@@ -8,6 +8,7 @@
 | Repository  | https://github.com/Antares-30XX/Antares |
 | Discord  | https://discord.com/invite/tg553fRW |
 | Website | N/A |
+| Language | EN |
 | Info | A medium/heavy roleplay server fork focused on tight and intentional game design and player-guided gameplay. |
 | Date of Creation | Jan 2022 |
 | Date of End |  N/A |

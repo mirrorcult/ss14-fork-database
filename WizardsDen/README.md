@@ -1,6 +1,6 @@
 # Wizard's Den SS14
 
-![LOGO](logo.png)
+![LOGO](logo.png | width=256)
 
 | Key  | Value |
 | ------------- | ------------- |
@@ -8,6 +8,7 @@
 | Repository  | https://github.com/space-wizards/space-station-14 |
 | Discord  | https://discord.gg/MwDDf6t |
 | Website | https://spacestation14.io |
+| Language | EN |
 | Info | The original grandfather branch of Space Station 14. |
 | Date of Creation | 2017 |
 | Date of End |  N/A |

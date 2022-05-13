@@ -1,6 +1,6 @@
 # Outer Rim 14
 
-![LOGO](logo.png)
+![LOGO](logo.png | width=256)
 
 | Key  | Value |
 | ------------- | ------------- |
@@ -8,6 +8,7 @@
 | Repository  | https://github.com/moonheart08/outer-rim-14 |
 | Discord  | https://discord.gg/G89SKfzMGq |
 | Website | N/A |
+| Language | EN |
 | Info | Features unique mechanics related to ship gameplay, and a procedurally generated overworld. Inspired by Shiptest SS13. |
 | Date of Creation | December 2021 |
 | Date of End |  N/A |

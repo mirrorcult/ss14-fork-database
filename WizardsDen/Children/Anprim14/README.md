@@ -1,6 +1,6 @@
 # Anprim 14
 
-![LOGO](logo.png)
+<img alt="Space Station 14" style='height: 50%; width: 50%; object-fit: cover' src=logo.png/>
 
 | Key  | Value |
 | ------------- | ------------- |

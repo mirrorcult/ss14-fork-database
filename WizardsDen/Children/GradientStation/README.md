@@ -1,6 +1,6 @@
 # Gradient Station
 
-![LOGO](logo.png)
+<img src="logo.png" width=150>
 
 | Key  | Value |
 | ------------- | ------------- |

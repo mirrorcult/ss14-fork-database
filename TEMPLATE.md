@@ -1,6 +1,6 @@
 # {FULL SERVER NAME}
 
-{`![LOGO](logo.png)` IF APPLICABLE (DELETE BACKTICKS)}
+{<img src="logo.png" width={WIDTH DEFAULT TO 300}>} IF APPLICABLE
 
 | Key  | Value |
 | ------------- | ------------- |

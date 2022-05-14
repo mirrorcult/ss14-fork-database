@@ -1,6 +1,6 @@
 # Outer Rim 14
 
-![LOGO](logo.png)
+<img src="logo.png" width=300>
 
 | Key  | Value |
 | ------------- | ------------- |

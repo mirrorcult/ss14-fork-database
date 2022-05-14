@@ -1,6 +1,6 @@
 # Nyanotrasen
 
-![LOGO](logo.png)
+<img src="logo.svg" width=150>
 
 | Key  | Value |
 | ------------- | ------------- |

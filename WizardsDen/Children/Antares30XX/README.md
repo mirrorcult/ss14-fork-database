@@ -1,6 +1,6 @@
 # Antares 30XX
 
-![LOGO](logo.png)
+<img src="logo.png" width=300>
 
 | Key  | Value |
 | ------------- | ------------- |

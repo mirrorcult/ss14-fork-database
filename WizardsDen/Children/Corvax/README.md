@@ -7,10 +7,10 @@
 | Host(s) | `GH@Morb0/DSC@Morty#7384` |
 | Repository  | https://github.com/space-syndicate/space-station-14 |
 | Discord  | https://discord.gg/F9bNgSYfX5 |
-| Website | https://discord.station14.ru/ |
+| Website | https://station14.ru/ |
 | Language | RU |
-| Info | The pre-eminent hub for Russian SS14 gameplay, featuring localizations and minor content changes. |
-| Date of Creation | Unknown |
+| Info | The pre-eminent hub for Russian SS14 gameplay, featuring localizations, an MRP ruleset, and minor content changes. |
+| Date of Creation | 2021-12-11 |
 | Date of End |  N/A |
 | Sources | `DSC@mirrorcult#9528`, `DSC@Morty#7384`, Corvax Discord |
 

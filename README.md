@@ -33,4 +33,5 @@ If you want to otherwise make additions or changes, feel free to do so as well b
 Other guidelines:
 - Folders and file names should not contain any spaces.
 - All names/referents to particular people should be wrapped in backticks and prepended with `GH@` for 'github username' or `DSC@` for 'discord tag'.
+- If links are added, you should archive them at https://web.archive.org/ using `Save Page Now` first if possible.
 - Currently, only forks with custom content are considered for archival here.

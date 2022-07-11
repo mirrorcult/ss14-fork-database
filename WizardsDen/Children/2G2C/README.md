@@ -1,6 +1,6 @@
 # 2 Greys 2 Crowbars
 
-{<img src="logo.png" width=300>}
+<img src="logo.png" width=300>
 
 | Key  | Value |
 | ------------- | ------------- |

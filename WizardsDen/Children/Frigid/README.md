@@ -1,6 +1,6 @@
 # Frigid
 
-<img src="frigid_logo.png" width=300>
+<img src="frigid-logo.png" width=300>
 
 | Key  | Value |
 | ------------- | ------------- |

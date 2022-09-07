@@ -7,7 +7,7 @@
 | Host(s) | `DSC@eclips_e#0001/GH@Just-a-Unity-Dev` |
 | Repository  | https://github.com/Spesships/2G2C |
 | Discord  | https://discord.gg/n8se25bGCx |
-| Website | https://421034.xyz/ <!-- (domain looks weird, but I own it and it's cheap af) --> |
+| Website | [421034.xyz](http://web.archive.org/web/20220907144712/https://421034.xyz/) <!-- (domain looks weird, but I own it and it's cheap af) --> |
 | Language | English |
 | Info | An NRP anarchy server (except without the slurs) |
 | Date of Creation | Around 2022/05/29 |

@@ -11,11 +11,8 @@
 | Language | English |
 | Info | An NRP anarchy server (except without the slurs) |
 | Date of Creation | Roughly around 5/29/2022 |
+| Date of End | 9/3/2022 |
 | Sources | `DSC@eclips_e#0001/GH@Just-Unity-Dev` |
 
 ## Miscellaneous Information
-Name was originally a joke, but I really liked it so I used it.
-
-Server was originally made around 5/29/2022, fully opened around July 1, and forked around July 9.
-
-Fork contains the same content as WizDen so far, as I need to get the server up before I add other things.
+2G2C is arguably considered the oldest anarchy server in SS14.

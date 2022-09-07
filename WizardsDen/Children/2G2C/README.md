@@ -10,8 +10,8 @@
 | Website | https://421034.xyz/ <!-- (domain looks weird, but I own it and it's cheap af) --> |
 | Language | English |
 | Info | An NRP anarchy server (except without the slurs) |
-| Date of Creation | Roughly around 5/29/2022 |
-| Date of End | 9/3/2022 |
+| Date of Creation | Around 2022/05/29 |
+| Date of End | 2022/09/03 |
 | Sources | `DSC@eclips_e#0001/GH@Just-Unity-Dev` |
 
 ## Miscellaneous Information

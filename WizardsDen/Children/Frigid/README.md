@@ -10,7 +10,7 @@
 | Website | [421034.xyz](https://421034.xyz/) <!-- (domain looks weird, but I own it and it's cheap af) --> |
 | Language | English |
 | Info | A MRP fork server focusing around the concept of zombies and AI |
-| Date of Creation | 2022/09/03 |
+| Date of Creation | 2022-09-03 |
 | Sources | `DSC@eclips_e#0001/GH@Just-Unity-Dev` |
 
 ## Miscellaneous Information

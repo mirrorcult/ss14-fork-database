@@ -4,7 +4,7 @@
 
 | Key  | Value |
 | ------------- | ------------- |
-| Host(s) | `GH@ElijahRane/DSC@Rane#7518,144601170156060672`, `GH@ZeroDayDaemon/DSC@Daemon#3789,144601170156060672` |
+| Host(s) | `GH@ElijahRane/DSC@Rane#7518,144601170156060672`, `GH@ZeroDayDaemon/DSC@Daemon#3789,403137916878061569` |
 | Repository  | https://github.com/Nyanotrasen/Nyanotrasen |
 | Discord  | https://discord.gg/KWgcYRsHS4 |
 | Website | https://www.nyanotrasen.moe/ |

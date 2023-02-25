@@ -15,4 +15,4 @@
 ## Miscellaneous Information
 StationWare is a fork focused on fast-paced minigames rather than any conventional roleplay.
 
-Rounds are less than 5 minutes and length and are focused on successfully completing as many of the challenges given as possible.
+Rounds are less than 5 minutes in length and are focused on successfully completing as many of the challenges given as possible.

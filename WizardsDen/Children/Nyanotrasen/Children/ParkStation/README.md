@@ -10,7 +10,7 @@
 | Discord  |  https://discord.gg/49KeKwXc8g |
 | Language | English |
 | Info | A more roleplay focused fork with longer rounds and a generally chiller experience  |
-| Date of Creation | December 7th 2022 |
+| Date of Creation | 2022/12/07 |
 | Date of End | N/A |
 | Sources | `GH@DEATHB4DEFEAT/DSC@DEATHB4DEFEAT#4404(801294818839756811)`, `GH@Pspritechologist/DSC@🦆 Pspritechologist 🦆#9442(189494600342175745)` |
 

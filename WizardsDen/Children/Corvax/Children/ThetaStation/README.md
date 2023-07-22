@@ -16,5 +16,5 @@
 
 ## Miscellaneous Information
 
-Theta Station has come a long way and wanted to be an MRP build about the catastrophe.
-Half a year later, the path has changed to PvP build. Largely thanks to `GH@IlinMihail/DSC@ilinm`. Official release with [trailer](https://youtu.be/wMnPygVKjAs) occurred on 2023-07-20.
+Theta Station has come a long way, originally destined to be an MRP build about a catastrophe aboard a small orbital station.
+Half a year later, the path has shifted towards being a PvP build. Largely thanks to `GH@IlinMihail/DSC@ilinm`'s efforts. Official release with [trailer](https://youtu.be/wMnPygVKjAs) occurred on 2023-07-20.

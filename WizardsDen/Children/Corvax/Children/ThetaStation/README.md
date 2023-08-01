@@ -5,7 +5,6 @@
 | Key  | Value |
 | ------------- | ------------- |
 | Host(s) | `GH@Dushess0/DSC@dushess`, `GH@LudwigVonChesterfield/DSC@lud.uk`, `GH@KIBORG04/DSC@kib.org`|
-| Repository  | https://github.com/ThetaStation/ThetaStation |
 | Discord  |  https://discord.gg/mmEprDu7RW  |
 | Website | https://www.thetastation.org/ |
 | Language | EN, RU |
